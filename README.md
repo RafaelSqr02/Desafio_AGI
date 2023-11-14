@@ -25,4 +25,4 @@ Este projeto foi automatizado utilizando o Robot Framework com a Library do Sele
 
 ---
 
-Obrigado por visitar meu repositório e conferir meu projeto de site portfólio! Estou ansioso para receber seus comentários e sugestões.
+Obrigado por visitar meu repositório e conferir meu projeto! Estou ansioso para receber seus comentários e sugestões.
