@@ -19,7 +19,7 @@ Este projeto foi automatizado utilizando o Robot Framework com a Library do Sele
 ## Como Executar o Projeto
 
 1. **Python:** Instalar o mesmo na sua máquina, versão utilizada 3.11: https://www.python.org/downloads/
-2. **Robot Framework:** Apóa instalar o Python, só executar o comenado: pip install robotframework
+2. **Robot Framework:** Após instalar o Python, só executar o comenado: pip install robotframework
 3. **Selenium Library:** Rodar o comando pip install --upgrade robotframework-seleniumlibrary
 4. **Execução dos testes:** rodar o comando no terminal: robot .\testes\Cenários_Agi.robot
 
